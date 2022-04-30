@@ -36,6 +36,3 @@ Below are a few site structures to take note
 |Variable|Variables are ways to reuse templates|
 |Layout|Layout are used to to create a standard view across the entire site|
 |Permalinks|Permalinks are links that bring us to a specific site|
-
-
-
