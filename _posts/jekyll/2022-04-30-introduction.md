@@ -1,10 +1,17 @@
+---
+title: "Introduction"
+date:   2022-04-30 10:30:26 +0900
+category: jekyll
+tags: jekyll
+---
+# Table of Contents
+* TOC
+{:toc}
+
 # Introduction
 Jekyll is a static site generator that works well with GitHub.
 
 In this section, we will go through some of the stuff we use for our blog.
-
-# Table of Contents
-
 
 # GitHub Pages
 The reason why we even touched Jekyll is because of [GitHub pages](https://docs.github.com/en/pages).
@@ -30,7 +37,5 @@ Below are a few site structures to take note
 |Layout|Layout are used to to create a standard view across the entire site|
 |Permalinks|Permalinks are links that bring us to a specific site|
 
-# How To
-A few things to help you get started.
 
 
