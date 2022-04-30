@@ -63,6 +63,7 @@ Below is the initial architecture diagram.
 Based on our understanding above, these are our API Endpoints.
 
 ### FrontEnd
+
 |Endpoint|Method|Description|
 |-|-|-|
 |/|GET|Show all medical records|
@@ -71,6 +72,7 @@ Based on our understanding above, these are our API Endpoints.
 |/register|GET|Get registration page|
 
 ### Brain
+
 |Endpoint|Method|Description|
 |-|-|-|
 |/|GET|Get version of API|
@@ -83,6 +85,7 @@ Based on our understanding above, these are our API Endpoints.
 |/scan|POST|Send data to tesseract for scanning|
 
 ### Tesseract
+
 |Endpoint|Method|Description|
 |-|-|-|
 |/|GET|Get version of API|
