@@ -20,11 +20,8 @@ Below is the high level overview of the timeline I'm looking at.
 |2023|Blockchain, AR/VR|
 |2024~|Product design, MVP development|
 
-# Categories
-Here is the list of categories
-
-- [Jekyll](jekyll/index.md)
-
+# Posts
+You can find the list of posts [here](/posts.md).
 
 # favicon
 Link to favicon used below.
