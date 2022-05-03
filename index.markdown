@@ -20,9 +20,34 @@ Below is the high level overview of the timeline I'm looking at.
 |2023|Blockchain, AR/VR|
 |2024~|Product design, MVP development|
 
-# Posts
-You can find the list of posts [here](/posts.md).
+Favicon by: <a target="_blank" href="https://icons8.com/icon/80671/screwdriver">Screwdriver</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
-# favicon
-Link to favicon used below.
-<a target="_blank" href="https://icons8.com/icon/80671/screwdriver">Screwdriver</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+# Posts
+## GoLang
+<ul>
+{% for post in site.categories.golang %}
+    <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
+
+## Jekyll
+<ul>
+{% for post in site.categories.jekyll %}
+    <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
+
+## Python
+<ul>
+{% for post in site.categories.python %}
+    <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
+
+
